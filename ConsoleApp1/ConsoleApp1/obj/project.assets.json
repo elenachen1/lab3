@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\rep_AT\\GUI\\lab3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\pc\\rep_AT\\GUI\\lab3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\rep_AT\\GUI\\lab3\\ConsoleApp1\\ConsoleApp1\\Lab3.csproj",
+      "projectName": "Lab3",
+      "projectPath": "C:\\Users\\pc\\rep_AT\\GUI\\lab3\\ConsoleApp1\\ConsoleApp1\\Lab3.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pc\\rep_AT\\GUI\\lab3\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
